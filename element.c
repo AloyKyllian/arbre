@@ -1,4 +1,4 @@
-#include "element.h"
+/*#include "element.h"
 
 void affiche_ELEMENT(ELEMENT e)
 {
@@ -36,3 +36,4 @@ int compare_ELEMENT(ELEMENT e1, ELEMENT e2)
         else return -1;
     }
 }
+*/
